@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="output_screen">0</string>
+    <string name="Ac_or_C">AC</string>
+    <string name="brackets">()</string>
+    <string name="percentage_opr">%</string>
+    <string name="division_operator">/</string>
+    <string name="equal_to">=</string>
+
+</resources>

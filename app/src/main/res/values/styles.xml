@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:layout_width">54dp</item>
+        <item name="android:layout_height">58dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/button_shape</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:paddingLeft">1dp</item>
+        <item name="android:paddingRight">1dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="ThreeOperators" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:layout_width">54dp</item>
+        <item name="android:background">@drawable/button_shape</item>
+        <item name="android:layout_height">58dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:paddingLeft">1dp</item>
+        <item name="android:paddingRight">1dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
